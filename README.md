@@ -1,2 +1,2 @@
 # llvmOpt
-This repository contains llvm opt related demo and llvm source code reading notes.
+This repository contains llvm IR reading notes.
